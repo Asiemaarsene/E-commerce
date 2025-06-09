@@ -1,0 +1,12 @@
+.cart {
+    border-radius: 5px;
+    font-size: 12px;
+    width: 50%;
+
+
+}
+
+.cart:hover {
+    background-color: #069c2e;
+    border: 1px solid #069c2e;
+}
